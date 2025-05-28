@@ -1,4 +1,4 @@
-public class AntrianPasien {
+public class LinkedListAntrianPasien {
     NodePasien head, tail;
 
     public boolean isEmpty() {
