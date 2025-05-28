@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class KlinikMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        AntrianPasien antrian = new AntrianPasien();
+        LinkedListAntrianPasien antrian = new LinkedListAntrianPasien();
         QueueTransaksi transaksiQueue = new QueueTransaksi(100);
 
         int pilih;
