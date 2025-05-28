@@ -63,7 +63,8 @@ public class KlinikMain {
                     break;
 
                 case 0:
-                    return;
+                    System.out.println("Terima kasih.");
+                    break;
 
                 default:
                     System.out.println("Pilihan tidak valid!");
